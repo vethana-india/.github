@@ -1,12 +1,12 @@
-## Hi there 👋
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vethana-foundation/.github/assets/68323012/2f7122c6-d79c-4c24-ac7b-1657dfbc1cf6">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vethana-foundation/.github/assets/68323012/2f7122c6-d79c-4c24-ac7b-1657dfbc1cf6">
   <img alt="Logo of Vethana in Green." src="https://github.com/vethana-foundation/.github/assets/68323012/2f7122c6-d79c-4c24-ac7b-1657dfbc1cf6">
 </picture>
 
-We are an open-source payroll management platform. In fact, we’ve been doing this since April, 2023. 
+### 👋 Introduction
+
+We are an open-source payroll management platform. We’ve been doing this since April, 2023. 
 
 ### 🎯 Objective
 
