@@ -25,13 +25,11 @@ We kindly request that you review each of them before you start working on the r
 #### Social:
   - Website: https://www.vethana.in
   - LinkedIn: https://www.linkedin.com/company/vethana
-  - Twitter: https://www.twitter.com/vethana_in
   - Mastodon: https://mastodon.social/@vethana
-  - Kooapp: https://www.kooapp.com/profile/vethana
 
 #### Logo:
 
-  Vethana Logo in Green (#009E4D) |   Vethana Logo in White (#FFFFFF)
-  :-------------------------: |  :-------------------------:
-  ![Vethana Logo in Blue](https://github.com/vethana-foundation/.github/assets/68323012/986728a0-9473-4cac-b86a-9f2b98ddb70a) |  ![Vethana Logo in White](https://github.com/vethana-foundation/.github/assets/68323012/9f407de4-1a93-469b-8787-ae431d94cd8a)
+Vethana Logo in Green (#009E4D) |   Vethana Logo in White (#FFFFFF)
+:-------------------------: |  :-------------------------:
+![Vethana Logo in Blue](https://github.com/vethana-foundation/.github/assets/68323012/986728a0-9473-4cac-b86a-9f2b98ddb70a) |  ![Vethana Logo in White](https://github.com/vethana-foundation/.github/assets/68323012/9f407de4-1a93-469b-8787-ae431d94cd8a)
 
